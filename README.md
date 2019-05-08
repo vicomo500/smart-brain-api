@@ -1,2 +1,2 @@
 # smart-brain-api
-Backend API for the smart-brain project using Nodejs courtesy Udemy
+Sample backend API for the smart-brain project using Nodejs courtesy Udemy
